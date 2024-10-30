@@ -1,0 +1,37 @@
+body{
+    background:linear-gradient(rgb(201, 11, 11),
+    rgb(253, 170, 16),
+    rgb(5, 5, 5));}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    color: rgb(15, 15, 15);
+}  
+hr{
+    width: 70%;
+    height: 10px;
+    background: rgb(141, 61, 4) ;
+}  
+
+p{
+    width: 60%;
+    margin: auto;
+    text-align: justify;
+}
+
+video{
+    width: 60%;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}
+img{
+    height: 200px;
+}
+.caixa{
+    width: fit-content;
+    margin: auto;
+}
